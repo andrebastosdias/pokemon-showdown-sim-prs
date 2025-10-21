@@ -21,12 +21,12 @@ I didn’t include PRs that are currently blocked by other PRs.
 ### Difficulty 1 - just merge it
 | PR | Reviewed by | Notes |
 | --- | --- | --- |
+| [Standardize action orders](https://github.com/smogon/pokemon-showdown/pull/11340) | | I just submitted this because I was making the same changes in multiple PRs |
 | [Dynamax Pokemon should be affected by Taunt](https://github.com/smogon/pokemon-showdown/pull/11361) | | One line |
 | [Unskip Fling + Leppa Berry test](https://github.com/smogon/pokemon-showdown/pull/10904) | | Just tests |
 | [Fix Round order prioritization and boosting logic](https://github.com/smogon/pokemon-showdown/pull/10915) | | |
 | [Add test for Metal Burst + berries interaction in Gen 4](https://github.com/smogon/pokemon-showdown/pull/11152) | | Just tests. Don't merge yet. I should add another test for Counter + berries |
 | [Add Switch Priority Clause Mod to Gen 1 and Gen 2 formats](https://github.com/smogon/pokemon-showdown/pull/11262) | | Meh, bureaucracy |
-| [Standardize action orders](https://github.com/smogon/pokemon-showdown/pull/11340) | | I just submitted this because I was making the same changes in multiple PRs |
 | [Fix interaction between Emergency Exit and Substitute](https://github.com/smogon/pokemon-showdown/pull/11350) | | Simple obscure bug |
 | [Fix Mold Breaker interaction with Dark and Fairy Aura](https://github.com/smogon/pokemon-showdown/pull/11370) | | |
 | [Fix Throat Spray activation message after opponent faints](https://github.com/smogon/pokemon-showdown/pull/11489) | | |
