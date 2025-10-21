@@ -26,7 +26,7 @@
 | --- | --- | --- |
 | | | |
 
-### Difficulty 1 - mechanically sound, but review carefully
+### Difficulty 3 - mechanically sound, but review carefully
 | PR | Reviewed by | Notes |
 | --- | --- | --- |
 | | | |
