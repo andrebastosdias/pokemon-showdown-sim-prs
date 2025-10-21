@@ -63,6 +63,3 @@ I didn’t include PRs that are currently blocked by other PRs.
 | --- | --- | --- |
 | [Fix the timing of Unnerve and Neutralizing Gas with self-switching moves](https://github.com/smogon/pokemon-showdown/pull/11347) | | I would like to see this merged ASAP because I have 3 PRs in draft that depend on it. Karthik told me that they wanted DaWoblefet's input |
 | [Fix Symbiosis' interactions with Eject Pack and Power Herb](https://github.com/smogon/pokemon-showdown/pull/10898) | | My solution is purely empirical, but it works correctly for all examples |
-| []() | | |
-| []() | | |
-| []() | | |
