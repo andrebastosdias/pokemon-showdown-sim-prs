@@ -31,7 +31,7 @@ I didn’t include PRs that are currently blocked by other PRs.
 | [Fix interaction between Emergency Exit and Substitute](https://github.com/smogon/pokemon-showdown/pull/11350) | | Simple obscure bug |
 | [Fix Mold Breaker interaction with Dark and Fairy Aura](https://github.com/smogon/pokemon-showdown/pull/11370) | | |
 | [Fix Throat Spray activation message after opponent faints](https://github.com/smogon/pokemon-showdown/pull/11489) | | |
-| [Just tests](https://github.com/smogon/pokemon-showdown/pull/11493) | | Just tests |
+| [Add tests for Gigaton Hammer and Encore interactions](https://github.com/smogon/pokemon-showdown/pull/11493) | | Just tests |
 
 ### Difficulty 2 - quick 2-minute review, should be a merge
 | PR | Reviewed by | Notes |
