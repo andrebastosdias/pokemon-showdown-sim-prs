@@ -33,7 +33,7 @@ I didn’t include PRs that are currently blocked by other PRs.
 | [Fix Throat Spray activation message after opponent faints](https://github.com/smogon/pokemon-showdown/pull/11489) | | |
 | [Add tests for Gigaton Hammer and Encore interactions](https://github.com/smogon/pokemon-showdown/pull/11493) | | Just tests |
 
-### Difficulty 2 - quick 2-minute review, should be a merge
+### Difficulty 2 - quick review, maybe needs some changes, should be a merge
 | PR | Reviewed by | Notes |
 | --- | --- | --- |
 | [Fix Order Up's interaction with Sheer Force](https://github.com/smogon/pokemon-showdown/pull/10891) | | |
@@ -47,7 +47,7 @@ I didn’t include PRs that are currently blocked by other PRs.
 | [Redirect the Counter target if the original one has fainted](https://github.com/smogon/pokemon-showdown/pull/11383) | | |
 | [Counter should be callable by Sleep Talk](https://github.com/smogon/pokemon-showdown/pull/11384) | | |
 
-### Difficulty 3 - mechanically sound, but review carefully
+### Difficulty 3 - mechanically sound, usually more extensive, review carefully
 | PR | Reviewed by | Notes |
 | --- | --- | --- |
 | [Fix spread move reduction in Gen 4](https://github.com/smogon/pokemon-showdown/pull/11180) | Slayer, Zarel | |
