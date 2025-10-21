@@ -7,6 +7,7 @@
 | [Fix Doom Desire and Future Sight animation bugs](https://github.com/smogon/pokemon-showdown/pull/11382) | 1 | hydra | |
 | [Gen 3: Remove Tickle from King's Rock list](https://github.com/smogon/pokemon-showdown/pull/11479) | 1 | hydra | |
 | [Prevent Bug Bite from eating Jaboca Berry in gens 5-9](https://github.com/smogon/pokemon-showdown/pull/11363) | 1 | hydra, urkerab | Merge conflicts |
+| [Added Alcremie Salted Cream](https://github.com/smogon/pokemon-showdown/pull/11503) | 1 | hydra | |
 
 ## Karthik PRs
 | PR |
