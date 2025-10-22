@@ -50,6 +50,7 @@ I didn’t include PRs that are currently blocked by other PRs.
 ### Difficulty 3 - mechanically sound, usually more extensive, review carefully
 | PR | Reviewed by | Notes |
 | --- | --- | --- |
+| [Normalize the implementation of Generational Mechanics](https://github.com/smogon/pokemon-showdown/pull/11509) | Slayer | |
 | [Fix spread move reduction in Gen 4](https://github.com/smogon/pokemon-showdown/pull/11180) | Slayer, Zarel | |
 | [Fix gen 3 switch in order](https://github.com/smogon/pokemon-showdown/pull/11185) | | Implemented with Marty's input and they already tested it |
 | [Implement field- and all-target moves](https://github.com/smogon/pokemon-showdown/pull/11211) | Slayer, urkerab | Very good and sound refactor, but it is a bit big. Has a small client PR attached |
@@ -57,7 +58,6 @@ I didn’t include PRs that are currently blocked by other PRs.
 | [Fix Xerneas formes](https://github.com/smogon/pokemon-showdown/pull/11369) | | Simple PR, mechanically sound. Marty and Zarel are worried with replay backward compatibility |
 | [Refactor of Neutralizing Gas and multiple ability fixes](https://github.com/smogon/pokemon-showdown/pull/11373) | | Implemented with Karthik's input. They said they would review it when they had time |
 | [Implement Ruin Abilities as field effects](https://github.com/smogon/pokemon-showdown/pull/11371) | | Approved mechanics, implementation needs review. The methods names are awful |
-| [Normalize the implementation of Generational Mechanics](https://github.com/smogon/pokemon-showdown/pull/11509) | Slayer | |
 
 ### Difficulty 4 - involves dubious events, probably needs a DaWoblefet review
 | PR | Reviewed by | Notes |
