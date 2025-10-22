@@ -38,7 +38,7 @@ I didn’t include PRs that are currently blocked by other PRs.
 | --- | --- | --- |
 | [Fix Order Up's interaction with Sheer Force](https://github.com/smogon/pokemon-showdown/pull/10891) | | |
 | [Implement Dancer using the battle queue](https://github.com/smogon/pokemon-showdown/pull/10975) | pyuk | Implemented existing TODO comments |
-| [Fix crystal-free Z-Moves and Dynamax-less Max Moves](https://github.com/smogon/pokemon-showdown/pull/11090) | | Simple PR with all the sources, just needs attention. A lot of people have been asking for this changes |
+| [Fix crystal-free Z-Moves and Dynamax-less Max Moves](https://github.com/smogon/pokemon-showdown/pull/11090) | | Simple PR with all the sources, just needs attention. A lot of people have been asking for these changes |
 | [Fix Synchronize and Toxic Spikes interaction in Gen 4](https://github.com/smogon/pokemon-showdown/pull/11186) | Slayer | |
 | [Fix Psycho Shift effect timing in Gen 4](https://github.com/smogon/pokemon-showdown/pull/11196) | Slayer | |
 | [Fix Klutz's interactions with non-held activated items](https://github.com/smogon/pokemon-showdown/pull/11204) | | Large but simple |
