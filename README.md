@@ -29,8 +29,8 @@ I didn’t include PRs that are currently blocked by other PRs.
 | [Add test for Metal Burst + berries interaction in Gen 4](https://github.com/smogon/pokemon-showdown/pull/11152) | | Just tests. Don't merge yet. I should add another test for Counter + berries |
 | [Add Switch Priority Clause Mod to Gen 1 and Gen 2 formats](https://github.com/smogon/pokemon-showdown/pull/11262) | | Meh, bureaucracy |
 | [Fix interaction between Emergency Exit and Substitute](https://github.com/smogon/pokemon-showdown/pull/11350) | | Simple obscure bug |
-| [Fix Mold Breaker interaction with Dark and Fairy Aura](https://github.com/smogon/pokemon-showdown/pull/11370) | | |
-| [Fix Throat Spray activation message after opponent faints](https://github.com/smogon/pokemon-showdown/pull/11489) | | |
+| [Fix Mold Breaker interaction with Dark and Fairy Aura](https://github.com/smogon/pokemon-showdown/pull/11370) | | Two lines |
+| [Fix Throat Spray activation message after opponent faints](https://github.com/smogon/pokemon-showdown/pull/11489) | | One line |
 | [Add tests for Gigaton Hammer and Encore interactions](https://github.com/smogon/pokemon-showdown/pull/11493) | | Just tests |
 
 ### Difficulty 2 - quick review, maybe needs some changes, should be a merge
