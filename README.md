@@ -32,6 +32,7 @@ I didn’t include PRs that are currently blocked by other PRs.
 | [Fix Mold Breaker interaction with Dark and Fairy Aura](https://github.com/smogon/pokemon-showdown/pull/11370) | | Two lines |
 | [Fix Throat Spray activation message after opponent faints](https://github.com/smogon/pokemon-showdown/pull/11489) | | One line |
 | [Add tests for Gigaton Hammer and Encore interactions](https://github.com/smogon/pokemon-showdown/pull/11493) | | Just tests |
+| [Fix interaction between Wonder Guard and typeless moves](https://github.com/smogon/pokemon-showdown/pull/11548) | | |
 
 ### Difficulty 2 - quick review, maybe needs some changes, should be a merge
 | PR | Reviewed by | Notes |
